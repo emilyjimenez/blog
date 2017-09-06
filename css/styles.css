@@ -1,13 +1,25 @@
 .first{
+  border: 2px solid #CF81E0;
+  padding: 4px;
+  margin-top: 2px;
+  margin-bottom: 2px;
   color: #29D008;
 }
 
 .second{
   color: #219809;
+  border: 2px solid #CF81E0;
+  padding: 4px;
+  margin-top: 2px;
+  margin-bottom: 2px;
 }
 
 .third{
   color: #156306;
+  border: 2px solid #CF81E0;
+  padding: 4px;
+  margin-top: 2px;
+  margin-bottom: 2px;
 }
 
 .important{
