@@ -1,0 +1,36 @@
+.first{
+  color: #29D008;
+}
+
+.second{
+  color: #219809;
+}
+
+.third{
+  color: #156306;
+}
+
+.important{
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+h1{
+  color: #320663;
+}
+
+h2{
+  color: #450C85;
+  font-style: italic;
+}
+
+h3{
+  color: purple;
+  font-size: 50px;
+}
+
+.aboutme {
+  font-family: monospace;
+  font-style: italic;
+  color: #D320CD;
+}
